@@ -1,0 +1,35 @@
+body{
+    background-color: #CFD8D0;
+    margin: 0;
+}
+
+.content{
+    margin: 100px;
+    display: flex;
+}
+
+.description{
+    width: 40%;
+    padding-top: 15%
+}
+
+.aboutMe{
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.picture{
+    height: 400px;
+    width: 400px;
+}
+
+.navRight{
+    float: right;
+}
+
+nav{
+    background-color: #6D9373;
+    margin: none;
+    height: 50px;
+    padding-top: 20px;
+}
